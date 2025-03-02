@@ -1,0 +1,14 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\randomGuessNumber\randomGuessNumber\bin\Debug\net9.0\randomGuessNumber.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\randomGuessNumber\randomGuessNumber\bin\Debug\net9.0\randomGuessNumber.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\randomGuessNumber\randomGuessNumber\bin\Debug\net9.0\randomGuessNumber.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\randomGuessNumber\randomGuessNumber\bin\Debug\net9.0\randomGuessNumber.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\randomGuessNumber\randomGuessNumber\bin\Debug\net9.0\randomGuessNumber.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\randomGuessNumber\randomGuessNumber\obj\Debug\net9.0\randomGuessNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\randomGuessNumber\randomGuessNumber\obj\Debug\net9.0\randomGuessNumber.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\randomGuessNumber\randomGuessNumber\obj\Debug\net9.0\randomGuessNumber.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\randomGuessNumber\randomGuessNumber\obj\Debug\net9.0\randomGuessNumber.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\randomGuessNumber\randomGuessNumber\obj\Debug\net9.0\randomGuessNumber.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\randomGuessNumber\randomGuessNumber\obj\Debug\net9.0\refint\randomGuessNumber.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\randomGuessNumber\randomGuessNumber\obj\Debug\net9.0\randomGuessNumber.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\randomGuessNumber\randomGuessNumber\obj\Debug\net9.0\randomGuessNumber.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\randomGuessNumber\randomGuessNumber\obj\Debug\net9.0\ref\randomGuessNumber.dll

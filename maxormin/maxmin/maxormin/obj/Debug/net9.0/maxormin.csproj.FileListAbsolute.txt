@@ -1,0 +1,14 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\maxormin\maxormin\bin\Debug\net9.0\maxormin.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\maxormin\maxormin\bin\Debug\net9.0\maxormin.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\maxormin\maxormin\bin\Debug\net9.0\maxormin.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\maxormin\maxormin\bin\Debug\net9.0\maxormin.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\maxormin\maxormin\bin\Debug\net9.0\maxormin.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\maxormin\maxormin\obj\Debug\net9.0\maxormin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\maxormin\maxormin\obj\Debug\net9.0\maxormin.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\maxormin\maxormin\obj\Debug\net9.0\maxormin.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\maxormin\maxormin\obj\Debug\net9.0\maxormin.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\maxormin\maxormin\obj\Debug\net9.0\maxormin.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\maxormin\maxormin\obj\Debug\net9.0\refint\maxormin.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\maxormin\maxormin\obj\Debug\net9.0\maxormin.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\maxormin\maxormin\obj\Debug\net9.0\maxormin.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\maxormin\maxormin\obj\Debug\net9.0\ref\maxormin.dll

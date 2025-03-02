@@ -1,0 +1,14 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\3or5\3or5\bin\Debug\net9.0\3or5.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\3or5\3or5\bin\Debug\net9.0\3or5.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\3or5\3or5\bin\Debug\net9.0\3or5.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\3or5\3or5\bin\Debug\net9.0\3or5.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\3or5\3or5\bin\Debug\net9.0\3or5.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\3or5\3or5\obj\Debug\net9.0\3or5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\3or5\3or5\obj\Debug\net9.0\3or5.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\3or5\3or5\obj\Debug\net9.0\3or5.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\3or5\3or5\obj\Debug\net9.0\3or5.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\3or5\3or5\obj\Debug\net9.0\3or5.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\3or5\3or5\obj\Debug\net9.0\refint\3or5.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\3or5\3or5\obj\Debug\net9.0\3or5.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\3or5\3or5\obj\Debug\net9.0\3or5.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\3or5\3or5\obj\Debug\net9.0\ref\3or5.dll
