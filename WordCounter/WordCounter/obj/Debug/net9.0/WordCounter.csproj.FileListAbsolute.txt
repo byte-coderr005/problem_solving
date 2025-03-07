@@ -1,0 +1,15 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\WordCounter\WordCounter\bin\Debug\net9.0\WordCounter.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\WordCounter\WordCounter\bin\Debug\net9.0\WordCounter.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\WordCounter\WordCounter\bin\Debug\net9.0\WordCounter.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\WordCounter\WordCounter\bin\Debug\net9.0\WordCounter.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\WordCounter\WordCounter\bin\Debug\net9.0\WordCounter.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\WordCounter\WordCounter\obj\Debug\net9.0\WordCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\WordCounter\WordCounter\obj\Debug\net9.0\WordCounter.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\WordCounter\WordCounter\obj\Debug\net9.0\WordCounter.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\WordCounter\WordCounter\obj\Debug\net9.0\WordCounter.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\WordCounter\WordCounter\obj\Debug\net9.0\WordCounter.sourcelink.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\WordCounter\WordCounter\obj\Debug\net9.0\WordCounter.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\WordCounter\WordCounter\obj\Debug\net9.0\refint\WordCounter.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\WordCounter\WordCounter\obj\Debug\net9.0\WordCounter.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\WordCounter\WordCounter\obj\Debug\net9.0\WordCounter.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\WordCounter\WordCounter\obj\Debug\net9.0\ref\WordCounter.dll

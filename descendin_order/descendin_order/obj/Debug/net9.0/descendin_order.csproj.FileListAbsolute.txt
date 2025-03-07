@@ -1,0 +1,15 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\descendin_order\descendin_order\bin\Debug\net9.0\descendin_order.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\descendin_order\descendin_order\bin\Debug\net9.0\descendin_order.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\descendin_order\descendin_order\bin\Debug\net9.0\descendin_order.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\descendin_order\descendin_order\bin\Debug\net9.0\descendin_order.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\descendin_order\descendin_order\bin\Debug\net9.0\descendin_order.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\descendin_order\descendin_order\obj\Debug\net9.0\descendin_order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\descendin_order\descendin_order\obj\Debug\net9.0\descendin_order.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\descendin_order\descendin_order\obj\Debug\net9.0\descendin_order.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\descendin_order\descendin_order\obj\Debug\net9.0\descendin_order.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\descendin_order\descendin_order\obj\Debug\net9.0\descendin_order.sourcelink.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\descendin_order\descendin_order\obj\Debug\net9.0\descendin_order.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\descendin_order\descendin_order\obj\Debug\net9.0\refint\descendin_order.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\descendin_order\descendin_order\obj\Debug\net9.0\descendin_order.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\descendin_order\descendin_order\obj\Debug\net9.0\descendin_order.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\descendin_order\descendin_order\obj\Debug\net9.0\ref\descendin_order.dll

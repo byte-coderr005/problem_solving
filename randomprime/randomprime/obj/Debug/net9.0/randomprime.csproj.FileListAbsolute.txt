@@ -1,0 +1,15 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\randomprime\randomprime\obj\Debug\net9.0\randomprime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\randomprime\randomprime\obj\Debug\net9.0\randomprime.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\randomprime\randomprime\obj\Debug\net9.0\randomprime.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\randomprime\randomprime\obj\Debug\net9.0\randomprime.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\randomprime\randomprime\obj\Debug\net9.0\randomprime.sourcelink.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\randomprime\randomprime\bin\Debug\net9.0\randomprime.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\randomprime\randomprime\bin\Debug\net9.0\randomprime.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\randomprime\randomprime\bin\Debug\net9.0\randomprime.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\randomprime\randomprime\bin\Debug\net9.0\randomprime.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\randomprime\randomprime\bin\Debug\net9.0\randomprime.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\randomprime\randomprime\obj\Debug\net9.0\randomprime.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\randomprime\randomprime\obj\Debug\net9.0\refint\randomprime.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\randomprime\randomprime\obj\Debug\net9.0\randomprime.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\randomprime\randomprime\obj\Debug\net9.0\randomprime.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\randomprime\randomprime\obj\Debug\net9.0\ref\randomprime.dll

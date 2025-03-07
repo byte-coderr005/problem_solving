@@ -1,0 +1,15 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\fibo3\fibo3\bin\Debug\net9.0\fibo3.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\fibo3\fibo3\bin\Debug\net9.0\fibo3.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\fibo3\fibo3\bin\Debug\net9.0\fibo3.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\fibo3\fibo3\bin\Debug\net9.0\fibo3.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\fibo3\fibo3\bin\Debug\net9.0\fibo3.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\fibo3\fibo3\obj\Debug\net9.0\fibo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\fibo3\fibo3\obj\Debug\net9.0\fibo3.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\fibo3\fibo3\obj\Debug\net9.0\fibo3.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\fibo3\fibo3\obj\Debug\net9.0\fibo3.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\fibo3\fibo3\obj\Debug\net9.0\fibo3.sourcelink.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\fibo3\fibo3\obj\Debug\net9.0\fibo3.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\fibo3\fibo3\obj\Debug\net9.0\refint\fibo3.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\fibo3\fibo3\obj\Debug\net9.0\fibo3.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\fibo3\fibo3\obj\Debug\net9.0\fibo3.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\fibo3\fibo3\obj\Debug\net9.0\ref\fibo3.dll

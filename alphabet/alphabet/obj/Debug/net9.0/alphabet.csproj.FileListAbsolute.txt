@@ -1,0 +1,15 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\alphabet\alphabet\bin\Debug\net9.0\alphabet.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\alphabet\alphabet\bin\Debug\net9.0\alphabet.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\alphabet\alphabet\bin\Debug\net9.0\alphabet.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\alphabet\alphabet\bin\Debug\net9.0\alphabet.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\alphabet\alphabet\bin\Debug\net9.0\alphabet.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\alphabet\alphabet\obj\Debug\net9.0\alphabet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\alphabet\alphabet\obj\Debug\net9.0\alphabet.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\alphabet\alphabet\obj\Debug\net9.0\alphabet.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\alphabet\alphabet\obj\Debug\net9.0\alphabet.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\alphabet\alphabet\obj\Debug\net9.0\alphabet.sourcelink.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\alphabet\alphabet\obj\Debug\net9.0\alphabet.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\alphabet\alphabet\obj\Debug\net9.0\refint\alphabet.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\alphabet\alphabet\obj\Debug\net9.0\alphabet.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\alphabet\alphabet\obj\Debug\net9.0\alphabet.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\kodlama_pratik\alphabet\alphabet\obj\Debug\net9.0\ref\alphabet.dll
