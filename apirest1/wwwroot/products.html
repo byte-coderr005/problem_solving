@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ürün Listesi</title>
+</head>
+<body>
+    <h1>Ürünler</h1>
+    <ul id="productList"></ul>
+
+    <script>fetch("https://localhost:5001/api/products")
+      .then(response => response.json())
+      .then(data => {
+        const list = document.getElementById("productList");
+        data.forEach(product => {
+          const item = document.createElement("li");
+          item.textContent = `${product.name} - ${product.price}₺`;
+          list.appendChild(item);
+        });
+      })
+      .catch(err => console.error("Hata:", err));</script>
+</body>
+</html>

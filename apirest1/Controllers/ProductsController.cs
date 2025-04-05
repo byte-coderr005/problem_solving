@@ -38,6 +38,8 @@ namespace apirest1.Controllers
         [HttpPost]
         public ActionResult<Product> Create(Product newProduct)
         {
+            if (newProduct.Price < 0)
+                return BadRequest("Price can not be less than zero.");
             newProduct.Id = products.Max(p => p.Id) + 1;
             products.Add(newProduct);
             return CreatedAtAction(nameof(GetById), new { id = newProduct.Id }, newProduct);
@@ -48,7 +50,8 @@ namespace apirest1.Controllers
         {
             var product = products.FirstOrDefault(p => p.Id == id);
             if (product == null) return NotFound();
-
+            if (updated.Price < 0)
+                return BadRequest("Price can not be less than zero.");
             product.Name = updated.Name;
             product.Price = updated.Price;
             return NoContent();
